@@ -54,6 +54,9 @@ hunter_config(Expat VERSION 2.1.1)
 hunter_config(GPUImage VERSION 0.1.6-p6)
 hunter_config(GSL VERSION 2.1.0-p2)
 hunter_config(Igloo VERSION 1.1.1-hunter)
+
+hunter_config(OpenEXR VERSION 1.0.1)
+
 hunter_config(IntSizeof VERSION 1.0.0)
 hunter_config(Jpeg VERSION 9b-p1)
 hunter_config(JsonSpirit VERSION 0.0.4-hunter)
