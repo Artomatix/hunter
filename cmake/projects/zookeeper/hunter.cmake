@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "3.6.0"
     URL
-    "https://github.com/Artomatix/zookeeper/archive/zookeeper-test-4.tar.gz"
+    "https://github.com/Artomatix/zookeeper/archive/3.6.0-hunter-2.tar.gz"
     SHA1
     ed8167bdc0eb08b967e091a4503f3373aad5dddc
 )
