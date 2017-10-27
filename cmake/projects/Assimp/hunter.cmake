@@ -49,6 +49,7 @@ hunter_cmake_args(
     ASSIMP_BUILD_SAMPLES=OFF
     ASSIMP_BUILD_TESTS=OFF
     ASSIMP_ENABLE_BOOST_WORKAROUND=OFF
+    ASSIMP_INSTALL_PDB=OFF
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
