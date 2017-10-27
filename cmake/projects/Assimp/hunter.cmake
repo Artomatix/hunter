@@ -17,7 +17,7 @@ hunter_add_version(
     URL
     "https://github.com/Artomatix/assimp/archive/v4.0.1-p0.tar.gz"
     SHA1
-    4b89b401b18adff830d972820c4cc0756115a2b5
+    3b15b4a8bb2a110c7451259806832603c98372dd
 )
 
 hunter_add_version(
