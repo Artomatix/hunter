@@ -13,11 +13,11 @@ hunter_add_version(
     PACKAGE_NAME
     clBLAS
     VERSION
-    3.3
+    3.4
     URL
-	"https://github.com/Artomatix/clBLAS/archive/3.3.tar.gz"
+	"https://github.com/Artomatix/clBLAS/archive/3.4.tar.gz"
     SHA1
-	f63d981a5a9fb622e3d86153806058fd090fd53b
+	019b7e31b3fb3599b6c502dffc0a0e28e9abe1af
 )
 
 hunter_cmake_args(
