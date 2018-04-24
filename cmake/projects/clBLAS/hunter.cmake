@@ -17,7 +17,7 @@ hunter_add_version(
     URL
 	"https://github.com/Artomatix/clBLAS/archive/3.3.tar.gz"
     SHA1
-	da43b20af41f2f300f1d0ab179f3a45251483cff
+	f63d981a5a9fb622e3d86153806058fd090fd53b
 )
 
 hunter_cmake_args(
