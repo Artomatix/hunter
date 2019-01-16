@@ -13,11 +13,11 @@ hunter_add_version(
     PACKAGE_NAME
     OpenCL
     VERSION
-    "2.1-p11"
+    "2.1-p12"
     URL
-    "https://github.com/artomatix/OpenCL-ICD-Loader/archive/2.1-p11.tar.gz"
+    "https://github.com/artomatix/OpenCL-ICD-Loader/archive/2.1-p12.tar.gz"
     SHA1
-	91de9cd092459bf7fc22d4fe5a14bfd5aa3ec3bb
+	4f20481092bcbacae977e23afaf7f41acf0e751a
 )
 
 hunter_add_version(
