@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "2.1-p10"
     URL
-    "https://github.com/artomatix/OpenCL-ICD-Loader/archive/2.1-p9.tar.gz"
+    "https://github.com/artomatix/OpenCL-ICD-Loader/archive/2.1-p10.tar.gz"
     SHA1
 	708752978284a60512571d51b15f9bffb57086e9
 )
