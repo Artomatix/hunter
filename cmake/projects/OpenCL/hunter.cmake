@@ -9,6 +9,16 @@ include(hunter_pick_scheme)
 
 # List of versions here...
 
+hunter_add_version(
+    PACKAGE_NAME
+    OpenCL
+    VERSION
+    "2.1-p6"
+    URL
+    "https://github.com/artomatix/OpenCL-ICD-Loader/archive/2.1-p6.tar.gz"
+    SHA1
+	5d5c8ed529a04ca56986ce0f40ede38aba460554
+)
 
 hunter_add_version(
     PACKAGE_NAME
