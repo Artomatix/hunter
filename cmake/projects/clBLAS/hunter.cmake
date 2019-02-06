@@ -15,9 +15,9 @@ hunter_add_version(
     VERSION
     3.6
     URL
-	"https://github.com/Artomatix/clBLAS/archive/3.6.tar.gz"
+	"https://github.com/Artomatix/clBLAS/archive/3.8.tar.gz"
     SHA1
-	2d0f4a6e3f978a34fb6483340192d43174b3b088
+    	623e476986f6f993a7c31d9d1f48737f91abf4d0
 )
 
 hunter_cmake_args(
