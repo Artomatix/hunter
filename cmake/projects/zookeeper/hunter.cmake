@@ -13,11 +13,11 @@ hunter_add_version(
     PACKAGE_NAME
     zookeeper
     VERSION
-    "3.6.0-hunter2"
+    "3.6.0-hunter-3"
     URL
-    "https://github.com/Artomatix/zookeeper/archive/3.6.0-hunter-2.tar.gz"
+    "https://github.com/Artomatix/zookeeper/archive/3.6.0-hunter-3.tar.gz"
     SHA1
-    7c112a5e542883baf6d8c7039b568a2c6e4851cc
+    0692646bc0ceb5dc06f04b38014f97a13ec8a688
 )
 
 # Pick a download scheme
